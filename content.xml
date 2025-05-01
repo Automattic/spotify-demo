@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-28 22:41" -->
+	<!-- generator="WordPress/6.8.1" created="2025-05-01 22:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,23 +27,43 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:0.7008088962774706</link>
+	<link>https://playground.wordpress.net/scope:funny-trendy-garden</link>
 	<description></description>
-	<pubDate>Wed, 28 Aug 2024 22:41:13 +0000</pubDate>
+	<pubDate>Thu, 01 May 2025 22:32:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:0.7008088962774706</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:0.7008088962774706</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:funny-trendy-garden</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:funny-trendy-garden</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-				
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+		<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+				<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentyfive]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentyfive]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=1</link>
-		<pubDate>Tue, 23 Jul 2024 15:44:55 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/2025/04/30/hello-world/</link>
+		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?p=1</guid>
 		<description></description>
@@ -52,10 +72,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-23 15:44:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-23 15:44:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-23 15:44:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-23 15:44:55]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-30 17:28:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
@@ -72,11 +92,27 @@
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
 			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-04-30 17:28:24]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2024-07-23 15:44:55]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2024-07-23 15:44:55]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -84,9 +120,179 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?page_id=2</link>
+		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://127.0.0.1:9400/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:18:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:18:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1746137936]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?page_id=3</link>
+		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:9400.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:18:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:18:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1746137938]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[A new idea]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=4&#038;preview=true&#038;preview_id=4</link>
-		<pubDate></pubDate>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=4</link>
+		<pubDate>Wed, 28 Aug 2024 19:53:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=4</guid>
 		<description></description>
@@ -96,12 +302,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-28 19:53:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_date_gmt><![CDATA[2024-08-28 19:53:56]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2024-08-28 19:53:56]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-08-28 19:53:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:post_name><![CDATA[a-new-idea]]></wp:post_name>
 		<wp:status><![CDATA[pitch]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -109,11 +315,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[The start of something]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=7&#038;preview=true&#038;preview_id=7</link>
-		<pubDate></pubDate>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=7</link>
+		<pubDate>Wed, 28 Aug 2024 19:54:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=7</guid>
 		<description></description>
@@ -123,12 +337,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-28 19:54:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_date_gmt><![CDATA[2024-08-28 19:54:49]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2024-08-28 19:54:49]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-08-28 19:54:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:post_name><![CDATA[the-start-of-something]]></wp:post_name>
 		<wp:status><![CDATA[pitch]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -136,11 +350,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[The Bennets of Longbourn]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=9&#038;preview=true&#038;preview_id=9</link>
-		<pubDate></pubDate>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=9</link>
+		<pubDate>Wed, 28 Aug 2024 19:59:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=9</guid>
 		<description></description>
@@ -170,12 +392,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-28 19:59:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-28 19:59:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-28 19:59:08]]></wp:post_modified_gmt>
+		<wp:post_date_gmt><![CDATA[2024-08-28 19:59:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-28 19:59:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-28 19:59:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:post_name><![CDATA[the-bennets-of-longbourn]]></wp:post_name>
 		<wp:status><![CDATA[assigned]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -183,11 +405,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Transylvanian nobels]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=11&#038;preview=true&#038;preview_id=11</link>
-		<pubDate></pubDate>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=11</link>
+		<pubDate>Wed, 28 Aug 2024 20:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=11</guid>
 		<description></description>
@@ -209,12 +439,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-28 20:00:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_date_gmt><![CDATA[2024-08-28 20:00:39]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2024-08-28 20:00:39]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-08-28 20:00:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:post_name><![CDATA[transylvanian-nobels]]></wp:post_name>
 		<wp:status><![CDATA[in-progress]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -222,10 +452,18 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[A literary biography]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=13&#038;preview=true&#038;preview_id=13</link>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=13</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=13</guid>
@@ -262,7 +500,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_date><![CDATA[2024-08-28 20:02:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2024-08-28 20:02:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-28 20:02:10]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -273,10 +511,18 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[History of a Young Lady's Entrance into the World ]]></title>
-		<link>https://playground.wordpress.net/scope:0.7008088962774706/?p=15&#038;preview=true&#038;preview_id=15</link>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/?p=15</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=15</guid>
@@ -337,7 +583,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_date><![CDATA[2024-08-28 20:03:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2024-08-28 20:03:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-28 20:03:40]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -348,7 +594,176 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/wp-global-styles-twentytwentyfive/</link>
+		<pubDate>Thu, 01 May 2025 22:08:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/wp-global-styles-twentytwentyfive/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 22:08:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 22:08:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:08:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:08:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
 						</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/navigation/</link>
+		<pubDate>Thu, 01 May 2025 22:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 22:16:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 22:16:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:16:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:16:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/</link>
+		<pubDate>Thu, 01 May 2025 22:29:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult-1024x682.webp","id":23,"dimRatio":50,"customOverlayColor":"#716316","isUserOverlayColor":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover"><img class="wp-block-cover__image-background wp-image-23 size-large" alt="" src="https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult-1024x682.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#716316"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">FOXCULT</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">New EP "The Amethyst Drift" available now</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":24,"mediaLink":"https://playground.wordpress.net/scope:funny-trendy-garden/?attachment_id=24","mediaType":"image"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/amethyst-drift-1024x1024.jpg" alt="" class="wp-image-24 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>If you like that more atmospheric, dark, spacey sounding posthardcore that brings back hints of the sound of The Receiving End of Sirens, Saosin, Of Machines, you got to check this out.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Discography</h2>
+<!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 22:29:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 22:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:31:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:31:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[foxcult]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/home/foxcult/</link>
+		<pubDate>Thu, 01 May 2025 22:24:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 22:24:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 22:24:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:24:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:24:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[foxcult]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>22</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/foxcult.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:20:"2025/05/foxcult.webp";s:8:"filesize";i:187012;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:20:"foxcult-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7704;}s:5:"large";a:5:{s:4:"file";s:21:"foxcult-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41390;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"foxcult-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4348;}s:12:"medium_large";a:5:{s:4:"file";s:20:"foxcult-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:27232;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"foxcult-1536x1024.webp";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:71496;}s:9:"2048x2048";a:5:{s:4:"file";s:22:"foxcult-2048x1365.webp";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:107232;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[amethyst-drift]]></title>
+		<link>https://playground.wordpress.net/scope:funny-trendy-garden/home/amethyst-drift/</link>
+		<pubDate>Thu, 01 May 2025 22:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/amethyst-drift.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 22:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 22:27:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 22:27:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 22:27:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[amethyst-drift]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>22</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/amethyst-drift.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/amethyst-drift.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:26:"2025/05/amethyst-drift.jpg";s:8:"filesize";i:365091;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"amethyst-drift-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14576;}s:5:"large";a:5:{s:4:"file";s:28:"amethyst-drift-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:180121;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"amethyst-drift-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4850;}s:12:"medium_large";a:5:{s:4:"file";s:26:"amethyst-drift-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97061;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
