@@ -1,7 +1,7 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "meta": {
-    "title": "Block Demo",
+    "title": "Spotify Demo",
     "description": "Installs plugins to demo blocks.",
     "author": "WordPress VIP",
     "categories": [
@@ -38,58 +38,22 @@
     },
     {
       "step": "writeFile",
-      "path": "/wordpress/wp-content/plugins/api-monster.php",
+      "path": "/wordpress/wp-content/plugins/spotify.php",
       "data": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/smithjw1/remote-data-blocks-demo/trunk/api-monster.php"
+        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/spotify.php"
       }
     },
     {
       "step": "activatePlugin",
-      "pluginPath": "api-monster.php"
-    },
-    {
-      "step": "writeFile",
-      "path": "/wordpress/wp-content/plugins/airtable-demo.php",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/smithjw1/remote-data-blocks-demo/trunk/airtable-demo.php"
-      }
-    },
-    {
-      "step": "activatePlugin",
-      "pluginPath": "airtable-demo.php"
+      "pluginPath": "spotify.php"
     },
     {
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/smithjw1/remote-data-blocks-demo/trunk/content.xml"
+        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/content.xml"
       }
-    },
-    {
-      "step": "mkdir",
-      "path": "/wordpress/wp-content/plugins/shopify-demo"
-    },
-    {
-      "step": "writeFile",
-      "path": "/wordpress/wp-content/plugins/shopify-demo/ExampleShopifyDataSource.php",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/smithjw1/remote-data-blocks-demo/trunk/shopify-demo/ExampleShopifyDataSource.php"
-      }
-    },
-    {
-      "step": "writeFile",
-      "path": "/wordpress/wp-content/plugins/shopify-demo/shopify-demo.php",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/smithjw1/remote-data-blocks-demo/trunk/shopify-demo/shopify-demo.php"
-      }
-    },
-    {
-      "step": "activatePlugin",
-      "pluginPath": "shopify-demo/shopify-demo.php"
     }
   ]
 }
