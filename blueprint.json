@@ -76,10 +76,10 @@
       "pluginPath": "spotify.php"
     },
     {
-      "step": "importWordPressFiles",
-      "wordPressFilesZip": {
+      "step": "importWxr",
+      "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/content.zip"
+        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/content.xml"
       }
     },
     {
