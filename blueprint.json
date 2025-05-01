@@ -11,13 +11,40 @@
   "features": {
     "networking": true
   },
-  "landingPage": "/wp-admin/post-new.php",
+  "landingPage": "/",
   "login": true,
   "preferredVersions": {
     "php": "8.2",
     "wp": "latest"
   },
   "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "jetpack"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "defineWpConfigConsts",
+      "consts": {
+        "JETACK_DEBUG": "true",
+        "JETPACK_DEV_DEBUG": "true",
+        "DNS_NS": 0
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "jetpack_active_modules": [
+          "blocks",
+          "subscriptions"
+        ]
+      }
+    },
     {
       "step": "defineWpConfigConsts",
       "consts": {
@@ -53,6 +80,13 @@
       "file": {
         "resource": "url",
         "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/content.xml"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "show_on_front": "page",
+        "page_on_front": 22
       }
     }
   ]
