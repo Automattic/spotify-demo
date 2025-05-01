@@ -76,6 +76,22 @@
       "pluginPath": "spotify.php"
     },
     {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/uploads/2025/05/amethyst-drift.jpg",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/amethyst-drift.jpg"
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/uploads/2025/05/foxcult.webp",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Automattic/spotify-demo/trunk/foxcult.webp"
+      }
+    },
+    {
       "step": "importWxr",
       "file": {
         "resource": "url",
