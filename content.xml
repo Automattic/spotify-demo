@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-01 23:11" -->
+	<!-- generator="WordPress/6.8.1" created="2025-05-01 23:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:humble-quiet-lake</link>
+	<link>https://playground.wordpress.net/scope:ambitious-trendy-valley</link>
 	<description></description>
-	<pubDate>Thu, 01 May 2025 23:11:04 +0000</pubDate>
+	<pubDate>Thu, 01 May 2025 23:20:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:humble-quiet-lake</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:humble-quiet-lake</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:ambitious-trendy-valley</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:ambitious-trendy-valley</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -61,213 +61,8 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/2025/04/30/hello-world/</link>
-		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-30 17:28:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2025-04-30 17:28:24]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-07-23 15:44:55]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-07-23 15:44:55]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/sample-page/</link>
-		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://127.0.0.1:9400/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-30 17:28:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?page_id=3</link>
-		<pubDate>Wed, 30 Apr 2025 17:28:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we are</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:9400.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Comments</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Media</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cookies</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Embedded content from other websites</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we share your data with</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">How long we retain your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">What rights you have over your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Where your data is sent</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-30 17:28:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-30 17:28:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-30 17:28:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[A new idea]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=4</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/?p=4</link>
 		<pubDate>Wed, 28 Aug 2024 19:53:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=4</guid>
@@ -303,10 +98,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The start of something]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=7</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/?p=7</link>
 		<pubDate>Wed, 28 Aug 2024 19:54:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=7</guid>
@@ -342,10 +141,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Bennets of Longbourn]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=9</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/?p=9</link>
 		<pubDate>Wed, 28 Aug 2024 19:59:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=9</guid>
@@ -401,10 +204,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Transylvanian nobels]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=11</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/?p=11</link>
 		<pubDate>Wed, 28 Aug 2024 20:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=11</guid>
@@ -452,152 +259,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[A literary biography]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=13</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Had I been as attentive not to displease him as I ought to have been, I know not but this vigil might have been fulfilled; but I unluckily entered upon the controversy concerning the right of Great-Britain to tax America, and attempted to argue in favour of our fellow-subjects on the other side of the Atlantick. I insisted that America might be very well governed, and made to yield sufficient revenue by the means of INFLUENCE, as exemplified in Ireland, while the people might be pleased with the imagination of their participating of the British constitution, by having a body of representatives, without whose consent money could not be exacted from them. Johnson could not bear my thus opposing his avowed opinion, which he had exerted himself with an extreme degree of heat to enforce; and the violent agitation into which he was thrown, while answering, or rather reprimanding me, alarmed me so, that I heartily repented of my having unthinkingly introduced the subject. I myself, however, grew warm, and the change was great, from the calm state of philosophical discussion in which we had a little before been pleasingly employed.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We were fatigued by the contest, which was produced by my want of caution; and he was not then in the humour to slide into easy and cheerful talk. It therefore so happened, that we were after an hour or two very willing to separate and go to bed.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>On Wednesday, September 24, I went into Dr. Johnson's room before he got up, and finding that the storm of the preceding night was quite laid, I sat down upon his bed-side, and he talked with as much readiness and good-humour as ever. He recommended to me to plant a considerable part of a large moorish farm which I had purchased, and he made several calculations of the expence and profit: for he delighted in exercising his mind on the science of numbers. He pressed upon me the importance of planting at the first in a very sufficient manner, quoting the saying 'In bello non licet bis errare:' and adding, 'this is equally true in planting.'</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I spoke with gratitude of Dr. Taylor's hospitality; and, as evidence that it was not on account of his good table alone that Johnson visited him often, I mentioned a little anecdote which had escaped my friend's recollection, and at hearing which repeated, he smiled. One evening, when I was sitting with him, Frank delivered this message: 'Sir, Dr. Taylor sends his compliments to you, and begs you will dine with him to-morrow. He has got a hare.'--'My compliments (said Johnson,) and I'll dine with him--hare or rabbit.'</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>After breakfast I departed, and pursued my journey northwards. I took my post-chaise from the Green Man, a very good inn at Ashbourne, the mistress of which, a mighty civil gentlewoman, courtseying very low, presented me with an engraving of the sign of her house; to which she had subjoined, in her own hand-writing, an address in such singular simplicity of style, that I have preserved it pasted upon one of the boards of my original Journal at this time, and shall here insert it for the amusement of my readers:--</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>'M. KILLINGLEY's duty waits upon Mr. Boswell, is exceedingly obliged to him for this favour; whenever he comes this way, hopes for a continuance of the same. Would Mr. Boswell name the house to his extensive acquaintance, it would be a singular favour conferr'd on one who has it not in her power to make any other return but her most grateful thanks, and sincerest prayers for his happiness in time, and in a blessed eternity.--Tuesday morn.'</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I cannot omit a curious circumstance which occurred at Edensor-inn, close by Chatsworth, to survey the magnificence of which I had gone a considerable way out of my road to Scotland. The inn was then kept by a very jolly landlord, whose name, I think, was Malton. He happened to mention that 'the celebrated Dr. Johnson had been in his house.' I inquired WHO this Dr. Johnson was, that I might hear mine host's notion of him. 'Sir, (said he,) Johnson, the great writer; ODDITY, as they call him. He's the greatest writer in England; he writes for the ministry; he has a correspondence abroad, and lets them know what's going on.'</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-28 20:02:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-28 20:02:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[History of a Young Lady's Entrance into the World ]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/?p=15</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.1393048133337713/?p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Yet so strong is the desire you have implanted in me to act with uprightness and propriety, that, however the weakness of my heart may distress and afflict me, it will never, I humbly trust, render me wilfully culpable. The wish of doing well governs every other, as far as concerns my conduct,-for am I not your child?-the creature of your own forming!-Yet, Oh Sir, friend, parent, of my heart!-my feelings are all at war with my duties! and, while I most struggle to acquire self-approbation, my peace, my happiness, my hopes,-are lost!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>'Tis you alone can compose a mind so cruelly agitated: you, I well know, can feel pity for the weakness to which you are a stranger; and, though you blame the affliction, soothe and comfort the afflicted.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MR. VILLARS TO EVELINA. Berry Hill, Oct. 3rd.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>YOUR last communication, my dearest child, is indeed astonishing; that an acknowledged daughter and heiress of Sir John Belmont should be at Bristol, and still my Evelina bear the name of Anville, is to me inexplicable; yet the mystery of the Lady Howard prepared me to expect something extraordinary upon Sir John Belmont's return to England.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Whoever this young lady may be, it is certain she now takes a place to which you have a right indisputable. An after-marriage I never heard of; yet, supposing such a one to have happened, Miss Evelyn was certainly the first wife, and therefore her daughter must, at least, be entitled to the name of Belmont.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Either there are circumstances in this affair at present utterly incomprehensible, or else some strange and most atrocious fraud has been practiced; which of these two is the case it now behoves us to enquire.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>My reluctance to this step gives way to my conviction of its propriety, since the reputation of your dear and much-injured mother must now either be fully cleared from blemish, or receive its final and indelible wound.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The public appearance of a daughter of Sir John Belmont will revive the remembrance of Miss Evelyn's story in all who have heard it,-who the mother was, will be universally demanded,-and if any other Lady Belmont should be named, the birth of my Evelina will receive a stigma, against which, honour, truth, and innocence may appeal in vain!-a stigma, which will eternally blast the fair fame of her virtuous mother, and cast upon her blameless self the odium of a title, which not all her purity can rescue from established shame and dishonour!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>No, my dear child, no; I will not quietly suffer the ashes of your mother to be treated with ignominy! her spotless character shall be justified to the world-her marriage shall be acknowledged, and her child shall bear the name to which she is lawfully entitled.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It is true, that Mrs. Mirvan would conduct this affair with more delicacy than Mrs. Selwyn; yet, perhaps, to save time, is of all considerations the most important, since the longer this mystery is suffered to continue, the more difficult may be rendered its explanation. The sooner, therefore, you can set out for town, the less formidable will be your task.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Let not your timidity, my dear love, depress your spirits: I shall, indeed, tremble for you at a meeting so singular and so affecting, yet there can be no doubt of the success of your application: I enclose a your unhappy mother, written, and reserved purposely for this occasion: Mrs. Clinton too, who attended her in her last illness, must accompany you to town.-But, without any other certificate of your birth, that which you carry in your countenance, as it could not be affected by artifice, so it cannot admit of a doubt.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>And now, my Evelina, committed at length to the care of your real parent, receive the fervent prayers, wishes, and blessings, of him who so fondly adopted you!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-28 20:03:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-28 20:03:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"category";s:4:"slug";s:13:"uncategorized";s:4:"name";s:13:"Uncategorized";}]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
@@ -605,7 +266,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/2025/05/01/wp-global-styles-twentytwentyfive/</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/2025/05/01/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Thu, 01 May 2025 22:08:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/wp-global-styles-twentytwentyfive/</guid>
@@ -631,10 +292,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/2025/05/01/navigation/</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/2025/05/01/navigation/</link>
 		<pubDate>Thu, 01 May 2025 22:16:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/2025/05/01/navigation/</guid>
@@ -659,16 +324,20 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-quiet-lake/</link>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/</link>
 		<pubDate>Thu, 01 May 2025 22:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:funny-trendy-garden/?page_id=22</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult-1024x682.webp","id":23,"dimRatio":50,"customOverlayColor":"#716316","isUserOverlayColor":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover"><img class="wp-block-cover__image-background wp-image-23 size-large" alt="" src="https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/foxcult-1024x682.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#716316"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/foxcult-1024x682.webp","id":30,"dimRatio":50,"customOverlayColor":"#716316","isUserOverlayColor":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover"><img class="wp-block-cover__image-background wp-image-30 size-large" alt="" src="https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/foxcult-1024x682.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#716316"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">FOXCULT</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -677,8 +346,8 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 <h2 class="wp-block-heading">New EP "The Amethyst Drift" available now</h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"mediaId":24,"mediaLink":"https://playground.wordpress.net/scope:funny-trendy-garden/?attachment_id=24","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://playground.wordpress.net/scope:funny-trendy-garden/wp-content/uploads/2025/05/amethyst-drift-1024x1024.jpg" alt="" class="wp-image-24 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<!-- wp:media-text {"mediaId":29,"mediaLink":"https://playground.wordpress.net/scope:ambitious-trendy-valley/amethyst-drift/","mediaType":"image"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/amethyst-drift-1024x1024.jpg" alt="" class="wp-image-29 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>If you like that more atmospheric, dark, spacey sounding posthardcore that brings back hints of the sound of The Receiving End of Sirens, Saosin, Of Machines, you got to check this out.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
@@ -728,8 +397,8 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2025-05-01 22:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-05-01 22:29:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-01 23:10:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-01 23:10:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 23:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 23:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -762,6 +431,80 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_9660863b5671852e3f1c962ab5f366eceb5296e1]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:19:"admin@localhost.com";s:7:"subject";s:27:"[My WordPress Website] Home";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:22;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[amethyst-drift]]></title>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/amethyst-drift/</link>
+		<pubDate>Thu, 01 May 2025 23:19:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/amethyst-drift.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 23:19:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 23:19:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 23:19:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 23:19:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[amethyst-drift]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/amethyst-drift.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/amethyst-drift.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:26:"2025/05/amethyst-drift.jpg";s:8:"filesize";i:365091;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"amethyst-drift-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14576;}s:5:"large";a:5:{s:4:"file";s:28:"amethyst-drift-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:180121;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"amethyst-drift-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4850;}s:12:"medium_large";a:5:{s:4:"file";s:26:"amethyst-drift-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97061;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[foxcult]]></title>
+		<link>https://playground.wordpress.net/scope:ambitious-trendy-valley/foxcult/</link>
+		<pubDate>Thu, 01 May 2025 23:19:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/foxcult.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-01 23:19:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-01 23:19:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-01 23:19:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-01 23:19:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[foxcult]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://playground.wordpress.net/scope:ambitious-trendy-valley/wp-content/uploads/2025/05/foxcult.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/foxcult.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:20:"2025/05/foxcult.webp";s:8:"filesize";i:187012;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:20:"foxcult-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7704;}s:5:"large";a:5:{s:4:"file";s:21:"foxcult-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41390;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"foxcult-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4348;}s:12:"medium_large";a:5:{s:4:"file";s:20:"foxcult-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:27232;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"foxcult-1536x1024.webp";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:71496;}s:9:"2048x2048";a:5:{s:4:"file";s:22:"foxcult-2048x1365.webp";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:107232;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
