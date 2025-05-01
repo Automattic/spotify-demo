@@ -1,7 +1,7 @@
 <?php declare(strict_types = 1);
 
 /**
- * Plugin Name: 5e SRD Monsters RDB Example
+ * Plugin Name: Spotify RDB Example
  * Description: Creates a custom block to be used with Remote Data Blocks in order to retrieve artwork from the 5e SRD.
  * Author: WPVIP
  * Author URI: https://remotedatablocks.com/
