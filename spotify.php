@@ -73,8 +73,8 @@ function get_spotify_access_token( string $client_id, string $client_secret, boo
 }
 
 function register_spotify_artists_tracks_block(): void {
-	$client_id = '72476c90d3cd43459e113435d5aae28c';
-	$client_secret = '55b6e79090434f958806155c70986a9b';
+	$client_id = '81c45aad51d44ec6bda851e4aa6db611';
+	$client_secret = '01f78fc45bc0486da9b3c7a506948aff';
 	$artist_id = '06HL4z0CvFAxyc27GXpf02';
 
 	$token = get_spotify_access_token( $client_id, $client_secret );
