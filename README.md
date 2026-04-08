@@ -8,6 +8,12 @@ This repo uses [WordPress Playground](https://playground.wordpress.net/) to prov
 
 Remote Data Blocks is a WordPress plugin that makes it easy to combine content and remote data in the block editor. Easily register blocks that load data from Airtable, Google Sheets, Shopify, GitHub, or any other API. [Read more about well-supported use cases](https://github.com/Automattic/remote-data-blocks).
 
-A [simple plugin](./spotify.php) is included to demonstrate the use of remote data blocks with Spotify.
+A [simple plugin](./spotify.php) is included to demonstrate the use of remote data blocks with Spotify. Before using it, replace the placeholder credentials in `spotify.php` with your own Spotify API credentials:
+
+- `YOUR_SPOTIFY_CLIENT_ID` — Your Spotify app's Client ID
+- `YOUR_SPOTIFY_CLIENT_SECRET` — Your Spotify app's Client Secret
+- `YOUR_SPOTIFY_ARTIST_ID` — The Spotify Artist ID you want to display top tracks for
+
+You can obtain a Client ID and Client Secret by creating an app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
 
 Without this plugin, significant custom development would be necessary to retrieve, cache, and output this third-party information.
